@@ -1,16 +1,16 @@
 # GenAI Essentials
 
-1. [NLP](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#NLP)
-2. [Regression](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#Regression)
-3. [Classification](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#Classification)
-4. [Clustering](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#Clustering)
-5. [Association](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#Association)
-6. [Dimensionality Reduction](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#Dimensionality-Reduction)
-7. [Types of Machine Learning](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#Types-of-Machine-Learning)
-8. [Classical ML](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#Classical-Machine-Learning)
-9. [Differences among SL, UL & RL](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#Differences-between-Supervised-Learning,-Unsupervised-Learning-&-Reinforcement-Learning)
-10. [Neural Networks and Deep Learning](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#Neural-Networks-and-Deep-Learning)
-11. [BERT](http://localhost:8888/lab/tree/Desktop/genAI/gen-essentials.ipynb?#BERT)
+1. [NLP](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#NLP)
+2. [Regression](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#Regression)
+3. [Classification](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#Classification)
+4. [Clustering](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#Clustering)
+5. [Association](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#Association)
+6. [Dimensionality Reduction](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#Dimensionality-Reduction)
+7. [Types of Machine Learning](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#Types-of-Machine-Learning)
+8. [Classical ML](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#Classical-Machine-Learning)
+9. [Differences among SL, UL & RL](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#Differences-between-Supervised-Learning,-Unsupervised-Learning-&-Reinforcement-Learning)
+10. [Neural Networks and Deep Learning](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#Neural-Networks-and-Deep-Learning)
+11. [BERT](https://github.com/DasikaMadhu/GenAI/blob/main/gen-essentials.ipynb?#BERT)
 
 ### NLP 
 
@@ -181,7 +181,7 @@ Dimensionality Reduction - Helps in reducing the amount of data pre-processing (
 2. Unsupervised
     * Deep Belief Networks (DBN)
     * Stacked Auto Encoders (SAE)
-    * Restricted Boltzmann Machines (RBMs
+    * Restricted Boltzmann Machines (RBMs)
   
 ### [BERT](https://huggingface.co/docs/transformers/model_doc/bert)
 
@@ -204,23 +204,23 @@ Dimensionality Reduction - Helps in reducing the amount of data pre-processing (
         - Provide two sentences A and B.  
         - Predict if B would follow A.  
 - Multiple model sizes
-    - Base – 100M parameters (12 layers, 12 attention heads, hidden size of 768).  
-    - Large – 240M parameters (24 layers, 16 attention heads, hidden size of 1024).  
-    - Tiny – 4M parameters (2 layers, 2 attention heads, hidden size of 128).  
+    - Base – 100M parameters (12 layers, 12 attention heads, hidden size of 768)
+    - Large – 240M parameters (24 layers, 16 attention heads, hidden size of 1024) 
+    - Tiny – 4M parameters (2 layers, 2 attention heads, hidden size of 128)
 - Fine-tune to perform
-    1. Named Entity Recognition (NER).  
-    2. Question Answering (QA).  
-    3. Sentence Pair Tasks.  
-    4. Summarization.  
-    5. Feature Extraction / Embeddings.  
-    6. Classification of text.  
-    7. Sentiment analysis.  
+    1. Named Entity Recognition (NER)
+    2. Question Answering (QA) 
+    3. Sentence Pair Tasks  
+    4. Summarization
+    5. Feature Extraction / Embeddings 
+    6. Classification of text
+    7. Sentiment analysis
 - BERT Variants
-    - RoBERTa.  
-    - DistilBERT.  
-    - ALBERT.  
-    - ELECTRA.  
-    - DeBERTa.  
+    - RoBERTa 
+    - DistilBERT 
+    - ALBERT
+    - ELECTRA 
+    - DeBERTa 
 - Very useful for a specific task or reaching a specific conclusion from a piece of text.
 
 
